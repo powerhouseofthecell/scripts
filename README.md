@@ -7,7 +7,7 @@ A collection of scripts for easy access from anywhere with Internet. If you're a
 ### how Use
 Go [here](http://scripts.42eof.com) to start using the scripts, or use
 ```
-curl -sL http://scripts.42eof.com/script_name | bash
+curl -sL http://scripts.42eof.com/[script_name] | bash
 ```
 To grab a script and run it in your bash console. If you do this, you take full and complete responsibility for whatever happens to your computer afterwards. Piping to bash is dangerous and should be done extremely judiciously. I repeat, I have warned you of the danger of doing this without being careful, and I take 0 responsibility for anything that happens if you execute a script on your or anyone else's machine. 
 
