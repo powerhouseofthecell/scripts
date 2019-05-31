@@ -2,7 +2,7 @@
 -----
 
 ### what Is
-A collection of scripts for easy access from anywhere with Internet. If you're a 5cr1p7 k1dd13, then please do go figure out how to build versions of these scripts yourself before just throwing them around. These are not intended as a reosurce for making other humans' lives miserable, but rather as a set of tools for demos, teaching, and education. 
+A collection of scripts for easy access from anywhere with Internet. If you're a 5cr1p7 k1dd13, then please do go figure out how to build versions of these scripts yourself before just throwing them around. These are not intended as a resource for making other humans' lives miserable, but rather as a set of tools for demos, teaching, and education. 
 
 ### how Use
 Go [here](http://scripts.42eof.com) to start using the scripts, or use
