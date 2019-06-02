@@ -1,1 +1,1 @@
-say "hi there, human friendlet"
+say "hi there, human friendleto"
