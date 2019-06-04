@@ -1,1 +1,1 @@
-say "hi there friendo"
+say "hi there friendo, this is awesome"
